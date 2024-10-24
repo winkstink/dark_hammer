@@ -1,0 +1,1 @@
+﻿positionForPages[99]={page:99,positions:[{word:"Quantum",left:0.733776,top:0.928948,width:0.067986,height:0.011115},{word:"Winter",left:0.806540,top:0.928948,width:0.052282,height:0.011115},{word:"97",left:0.900583,top:0.928636,width:0.016083,height:0.011115}]};

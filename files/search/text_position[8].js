@@ -1,0 +1,1 @@
+﻿positionForPages[8]={page:8,positions:[{word:"6",left:0.083333,top:0.928636,width:0.008639,height:0.011115},{word:"Introduction",left:0.141111,top:0.928948,width:0.098525,height:0.011115}]};

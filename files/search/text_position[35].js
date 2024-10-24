@@ -1,0 +1,1 @@
+﻿positionForPages[35]={page:35,positions:[{word:"Dark",left:0.754612,top:0.928948,width:0.038149,height:0.011115},{word:"Hammer",left:0.797538,top:0.928948,width:0.061306,height:0.011115},{word:"33",left:0.899250,top:0.928636,width:0.017417,height:0.011115}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[18]={page:18,positions:[{word:"16",left:0.083333,top:0.928636,width:0.014292,height:0.011115},{word:"Silent",left:0.141111,top:0.928948,width:0.046483,height:0.011115},{word:"Ruin",left:0.192372,top:0.928948,width:0.031207,height:0.011115}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[111]={page:111,positions:[{word:"Insider",left:0.749039,top:0.928948,width:0.051622,height:0.011115},{word:"Threat",left:0.805439,top:0.928948,width:0.053378,height:0.011115},{word:"109",left:0.893528,top:0.928636,width:0.023139,height:0.011115}]};
